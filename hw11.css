@@ -1,4 +1,4 @@
-/* the styles for the elements */
+
 * {
 	margin: 0;
 	padding: 0;
@@ -17,7 +17,7 @@ body {
  {
 	font-style: oblique;
 }
-/* the styles for the header */
+
 header {
 	padding: 1.5em 0 2em 0;
 	border-bottom: 3px solid #931420;
@@ -44,16 +44,16 @@ main {
 	clear: left;
 	padding: 0 30px;
 }
-/* the h1 styles for exercise 5-1
+
 main h1 {
 	font-size: 150%;
     border-top: 3px solid #931420;
     border-bottom: 3px solid #931420;
     padding: .3em 0;
-} */
 
 
-/* the h1 styles for exercise 5-2 */
+
+
 main h1 {
 	font-size: 150%;
 	border-top: 3px solid #800000;
@@ -90,7 +90,7 @@ main li {
 	padding-bottom: .35em;
 }
 
-/* the styles for the footer */
+
 footer {
 	background-color: #931420;
 
